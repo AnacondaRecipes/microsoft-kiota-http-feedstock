@@ -44,5 +44,11 @@ about:
   doc_url: https://github.com/microsoft/kiota-http-python/blob/main/README.md
 
 extra:
+  anaconda-services:
+    ref: https://anaconda.zendesk.com/agent/tickets/48409
+    reason: Dependenccy for msgraph-sdk
+    recipe-maintainers:
+      - ianaobi
+  recipe-maintainers:
   recipe-maintainers:
     - xylar
